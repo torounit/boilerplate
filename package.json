@@ -1,0 +1,24 @@
+{
+  "name": "vue-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toro_Unit",
+  "license": "GPL v2 or later",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-bower-concat": "*",
+    "grunt-bower-task": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-este-watch": "*",
+    "grunt-kss": "*"
+  }
+}

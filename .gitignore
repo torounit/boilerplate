@@ -1,0 +1,6 @@
+.sass-cache
+vendor
+icons-*.png
+node_modules
+assets/javascripts
+assets/stylesheets

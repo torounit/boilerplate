@@ -1,0 +1,14 @@
+{
+  "name": "projectname",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "sass-mq": "~2.0.0",
+    "Retina-sprites-for-Compass": "*"
+  }
+}
