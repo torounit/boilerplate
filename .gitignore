@@ -4,3 +4,4 @@ icons-*.png
 node_modules
 assets/javascripts
 assets/stylesheets
+Gemfile.lock
