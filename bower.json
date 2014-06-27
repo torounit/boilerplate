@@ -9,7 +9,6 @@
   "dependencies": {},
   "devDependencies": {
     "normalize-scss": "*",
-    "sass-mq": "~2.0.0",
-    "Retina-sprites-for-Compass": "*"
+    "sass-mq": "~2.0.0"
   }
 }

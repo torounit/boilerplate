@@ -19,4 +19,4 @@ sass_options = { :sourcemap => true }
 output_style = :nested
 line_comments = (environment == :production) ? false : true
 relative_assets = false
-add_import_path 'vendor/assets/bower_components/'
+add_import_path 'vendor/bower_components/'
